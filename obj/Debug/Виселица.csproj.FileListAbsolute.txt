@@ -1,0 +1,8 @@
+C:\Users\Pegasio\Desktop\Виселица\Виселица\bin\Debug\Виселица.exe.config
+C:\Users\Pegasio\Desktop\Виселица\Виселица\bin\Debug\Виселица.exe
+C:\Users\Pegasio\Desktop\Виселица\Виселица\bin\Debug\Виселица.pdb
+C:\Users\Pegasio\Desktop\Виселица\Виселица\obj\Debug\Виселица.csproj.AssemblyReference.cache
+C:\Users\Pegasio\Desktop\Виселица\Виселица\obj\Debug\Виселица.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pegasio\Desktop\Виселица\Виселица\obj\Debug\Виселица.csproj.CoreCompileInputs.cache
+C:\Users\Pegasio\Desktop\Виселица\Виселица\obj\Debug\Виселица.exe
+C:\Users\Pegasio\Desktop\Виселица\Виселица\obj\Debug\Виселица.pdb
